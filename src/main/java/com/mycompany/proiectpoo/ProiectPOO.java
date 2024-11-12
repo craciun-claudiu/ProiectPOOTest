@@ -11,7 +11,6 @@ package com.mycompany.proiectpoo;
 public class ProiectPOO {
 
     public static void main(String[] args) {
-        System.out.println("Ceva");
         System.out.println("Am schimbat codul a treia oara");
     }
 }
